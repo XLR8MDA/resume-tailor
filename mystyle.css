@@ -1,0 +1,32 @@
+/* CSS for PDF styling */
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    color: #2E86C1; /* Attractive blue color for headings */
+    font-size: 10px; /* Same size for all headings */
+    margin-bottom: 5px;
+}
+
+/* Paragraph and other text styles */
+p, ul, ol, li {
+    font-size: 9px; /* Smaller size for remaining text */
+    color: #333; /* Dark grey color for text */
+    line-height: 1.6;
+}
+
+/* Link styles */
+a {
+    color: #1A5276; /* Darker blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
