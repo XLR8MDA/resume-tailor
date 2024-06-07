@@ -1,8 +1,9 @@
 groq
-chromadb==0.4.22
+
 
 crewai==0.30.11
 crewai-tools==0.2.6
+chromadb==0.4.22
 streamlit
 markdown-pdf
 langchain-community==0.0.29
