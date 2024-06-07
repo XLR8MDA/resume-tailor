@@ -50,6 +50,7 @@ if uploaded_file and job_description_url:
         
 
 
+
 # Display stored inputs if available
 if 'resume' in st.session_state and 'job_description_url' in st.session_state:
     st.subheader("Stored Inputs")
