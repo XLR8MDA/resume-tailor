@@ -1,0 +1,10 @@
+groq
+crewai
+crewai-tools
+streamlit
+markdown-pdf
+langchain-community==0.0.29
+langchain-core==0.1.52
+unstructured==0.14.3
+langchain==0.1.13
+pdfminer.six
