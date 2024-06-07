@@ -1,4 +1,5 @@
 groq
+chromadb==0.4.18
 crewai==0.30.0
 crewai-tools
 streamlit
