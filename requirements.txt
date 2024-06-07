@@ -1,5 +1,5 @@
 groq
-crewai
+crewai==0.30.0
 crewai-tools
 streamlit
 markdown-pdf
