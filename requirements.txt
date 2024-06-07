@@ -1,6 +1,6 @@
 groq
 chromadb==0.4.18
-pysqlite3==0.4.3
+
 crewai
 crewai-tools
 streamlit
