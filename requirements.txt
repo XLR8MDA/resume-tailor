@@ -8,4 +8,3 @@ langchain-core==0.1.52
 unstructured==0.14.3
 langchain==0.1.13
 pdfminer.six
-pysqlite3
